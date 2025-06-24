@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Tranh thủy mặc",
+    "year": 1707,
+    "origin": "Ai Cập",
+    "estimated_value": 7600,
+    "collection_name": "Tranh cổ"
+  },
+  {
+    "name": "Tranh sơn dầu cổ",
+    "year": 1664,
+    "origin": "Việt Nam",
+    "estimated_value": 339900,
+    "collection_name": "Tranh cổ"
+  },
+  {
+    "name": "Tranh khắc gỗ",
+    "year": 1750,
+    "origin": "Ai Cập",
+    "estimated_value": 108900,
+    "collection_name": "Tranh cổ"
+  },
+  {
+    "name": "Sách y học cổ",
+    "year": 1789,
+    "origin": "Việt Nam",
+    "estimated_value": 323800,
+    "collection_name": "Sách cổ"
+  },
+  {
+    "name": "Sách cổ Trung Quốc",
+    "year": 1741,
+    "origin": "Việt Nam",
+    "estimated_value": 360900,
+    "collection_name": "Sách cổ"
+  },
+  {
+    "name": "Kinh Phật cổ",
+    "year": 1760,
+    "origin": "Việt Nam",
+    "estimated_value": 284900,
+    "collection_name": "Sách cổ"
+  },
+  {
+    "name": "Dao găm cổ",
+    "year": 1671,
+    "origin": "Châu Âu",
+    "estimated_value": 241800,
+    "collection_name": "Vũ khí cổ"
+  },
+  {
+    "name": "Cung tên cổ",
+    "year": 1641,
+    "origin": "Trung Quốc",
+    "estimated_value": 436400,
+    "collection_name": "Vũ khí cổ"
+  },
+  {
+    "name": "Kiếm cổ",
+    "year": 1751,
+    "origin": "Châu Âu",
+    "estimated_value": 346900,
+    "collection_name": "Vũ khí cổ"
+  },
+  {
+    "name": "Vòng tay cổ",
+    "year": 1726,
+    "origin": "Việt Nam",
+    "estimated_value": 139400,
+    "collection_name": "Trang sức cổ"
+  },
+  {
+    "name": "Dây chuyền cổ",
+    "year": 1779,
+    "origin": "Nhật Bản",
+    "estimated_value": 495600,
+    "collection_name": "Trang sức cổ"
+  },
+  {
+    "name": "Nhẫn cổ",
+    "year": 1889,
+    "origin": "Châu Âu",
+    "estimated_value": 222800,
+    "collection_name": "Trang sức cổ"
+  },
+  {
+    "name": "Tranh thúy kiểu",
+    "year": 1400,
+    "origin": "Viêt Nam",
+    "estimated_value": 1000000.0,
+    "collection_name": "Tranh cổ"
+  }
+]

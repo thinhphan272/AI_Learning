@@ -1,0 +1,30 @@
+[
+    {
+        "name": "L\u00ea Thanh Nh\u01b0",
+        "age": 31,
+        "gender": "Nam",
+        "lop": "12DHTH05",
+        "diem": 8.7
+    },
+    {
+        "name": "L\u00fd Gia Nga",
+        "age": 50,
+        "gender": "N\u1eef",
+        "lop": "14DHKHDL01",
+        "diem": 0.8
+    },
+    {
+        "name": "\u0110inh Y\u1ebfn Qu\u00e2n",
+        "age": 35,
+        "gender": "Nam",
+        "lop": "11DHKHDL03",
+        "diem": 0.8
+    },
+    {
+        "name": "Tr\u1ea7n Gia Quang",
+        "age": 20,
+        "gender": "N\u1eef",
+        "lop": "12DHKHDL05",
+        "diem": 7.2
+    }
+]

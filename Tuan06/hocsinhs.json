@@ -1,0 +1,51 @@
+[
+    {
+        "name": "L\u00fd Th\u00e0nh Quang",
+        "age": 11,
+        "sex": "Nam",
+        "lop": "12DHBM04",
+        "diem": 7.9
+    },
+    {
+        "name": "L\u00ea Thanh Ly",
+        "age": 7,
+        "sex": "N\u1eef",
+        "lop": "13DHKHDL06",
+        "diem": 11.7
+    },
+    {
+        "name": "\u0110inh Minh Quang",
+        "age": 38,
+        "sex": "Nam",
+        "lop": "15DHTH10",
+        "diem": 8.6
+    },
+    {
+        "name": "\u0110inh Y\u1ebfn Ly",
+        "age": 56,
+        "sex": "Nam",
+        "lop": "15DHBM09",
+        "diem": 4.6
+    },
+    {
+        "name": "\u0110inh Minh H\u01b0\u01a1ng",
+        "age": 40,
+        "sex": "Nam",
+        "lop": "13DHTH05",
+        "diem": 7.0
+    },
+    {
+        "name": "Phan Y\u1ebfn H\u01b0\u01a1ng",
+        "age": 18,
+        "sex": "N\u1eef",
+        "lop": "13DHKHDL01",
+        "diem": 10.2
+    },
+    {
+        "name": "\u0110inh Y\u1ebfn H\u01b0\u01a1ng",
+        "age": 73,
+        "sex": "Nam",
+        "lop": "14DHKHDL06",
+        "diem": 6.1
+    }
+]

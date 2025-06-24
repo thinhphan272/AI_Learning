@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="345cf9d6-6bc8-45ca-8e46-3049fd4cc987" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2uaANLUMnuwn5Ne0vUyOEFflpWx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.BTVN_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BTVN_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BTVN_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BTVN_04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BTVN_05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BTVN_06.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BTVN_07.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BTVN_08.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BTVN_09.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BTVN_Bai1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BTVN_Bai2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BTVN_Bai3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BTVN_Bai4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BTVN_Bai5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BTVN_Bai6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BTVN_Bai7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BTVN_Bai8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BTVN_Bai9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.BT_vidu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Bai1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Bai10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Bai11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Bai2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Bai3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Bai4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Bai5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Bai6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Bai7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Bai8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Bai9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CacTPCB_Button.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CacTPCB_Checkbutton.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CacTPCB_Entry.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CacTPCB_Label.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CacTPCB_Listbox.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CacTPCB_Radiobutton.executor&quot;: &quot;Run&quot;,
+    &quot;Python.CacTPCB_Text.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Grid.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HienThiHAnh.executor&quot;: &quot;Run&quot;,
+    &quot;Python.If_else.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Menubar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Message_Box.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Message_Box_askokcancel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Message_Box_askquetion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Message_Box_askretrycancel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Message_Box_askyesno.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Message_Box_showerror.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Message_Box_showwarning.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Place_vidu.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Place_vidu2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Place_vidu3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Place_vidu4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QLSV.executor&quot;: &quot;Run&quot;,
+    &quot;Python.QL_KhachHang_HomeStay.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TaoCuaSoChinh.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Vidu_MinhHoa.executor&quot;: &quot;Run&quot;,
+    &quot;Python.antique_manager.executor&quot;: &quot;Run&quot;,
+    &quot;Python.api_sever.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bai2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.buttons.executor&quot;: &quot;Run&quot;,
+    &quot;Python.entry.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hs1test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.labels.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pyThon_25BT.executor&quot;: &quot;Run&quot;,
+    &quot;Python.random.executor&quot;: &quot;Run&quot;,
+    &quot;Python.windows.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/C/PYTHON/Python_CODE&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PyCharm\pythonProject1\Tkinter_Learning" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\C\PYTHON\Python_CODE\LapTrinh_Py" />
+      <recent name="C:\C\PYTHON\Python_CODE\Tuan10\ViDu_TPCOBAN" />
+      <recent name="D:\PyCharm\pythonProject1\Tuan11\Label" />
+      <recent name="D:\PyCharm\pythonProject1\Tkinter_Learning\image" />
+      <recent name="D:\PyCharm\pythonProject1\Tkinter_Learning" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="345cf9d6-6bc8-45ca-8e46-3049fd4cc987" name="Changes" comment="" />
+      <created>1742476270165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742476270165</updated>
+      <workItem from="1742476271596" duration="4469000" />
+      <workItem from="1742514774809" duration="709000" />
+      <workItem from="1742900371774" duration="937000" />
+      <workItem from="1742903355437" duration="9108000" />
+      <workItem from="1742962746754" duration="3620000" />
+      <workItem from="1742968313938" duration="1916000" />
+      <workItem from="1742970261749" duration="9565000" />
+      <workItem from="1742979917925" duration="554000" />
+      <workItem from="1743421477397" duration="8809000" />
+      <workItem from="1743507657728" duration="10802000" />
+      <workItem from="1743559773179" duration="598000" />
+      <workItem from="1743567576222" duration="2548000" />
+      <workItem from="1743570886143" duration="1691000" />
+      <workItem from="1743573179627" duration="64000" />
+      <workItem from="1743670906920" duration="1066000" />
+      <workItem from="1743904974796" duration="11619000" />
+      <workItem from="1743930513706" duration="1723000" />
+      <workItem from="1743932264009" duration="520000" />
+      <workItem from="1743932808009" duration="1045000" />
+      <workItem from="1744173623311" duration="3182000" />
+      <workItem from="1744194086361" duration="8000" />
+      <workItem from="1744785382768" duration="474000" />
+      <workItem from="1744787038426" duration="679000" />
+      <workItem from="1745116557207" duration="9653000" />
+      <workItem from="1746593014470" duration="1751000" />
+      <workItem from="1746597196688" duration="4629000" />
+      <workItem from="1747200353902" duration="8088000" />
+      <workItem from="1748056294892" duration="562000" />
+      <workItem from="1748056878835" duration="18096000" />
+      <workItem from="1748086427855" duration="9765000" />
+      <workItem from="1748129372064" duration="1439000" />
+      <workItem from="1748172849771" duration="10548000" />
+      <workItem from="1748221276167" duration="3399000" />
+      <workItem from="1748311429292" duration="13037000" />
+      <workItem from="1748781805675" duration="615000" />
+      <workItem from="1749093603718" duration="606000" />
+      <workItem from="1749121901024" duration="315000" />
+      <workItem from="1749296567819" duration="655000" />
+      <workItem from="1749858155902" duration="250000" />
+      <workItem from="1750480547656" duration="50000" />
+      <workItem from="1750504338365" duration="8421000" />
+      <workItem from="1750551242966" duration="3024000" />
+      <workItem from="1750562922459" duration="5361000" />
+      <workItem from="1750594391575" duration="678000" />
+      <workItem from="1750639767445" duration="7121000" />
+      <workItem from="1750679205939" duration="8054000" />
+      <workItem from="1750728026688" duration="863000" />
+      <workItem from="1750735897649" duration="1372000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BaiTapVeNha/OnTap_Youtube/app1.py</url>
+          <line>46</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BaiTapVeNha/OnTap_Youtube/QLSV.py</url>
+          <line>99</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Tuan10/ViDu_TPCOBAN/CacTPCB_Radiobutton.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonProject1$Grid.coverage" NAME="Grid Coverage Results" MODIFIED="1746598013563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuan11" />
+    <SUITE FILE_PATH="coverage/pythonProject1$BTVN_Bai8.coverage" NAME="BTVN_Bai8 Coverage Results" MODIFIED="1743431972229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaiTapVeNha/Ontap_Tuan01" />
+    <SUITE FILE_PATH="coverage/Python_CODE$pyThon_25BT.coverage" NAME="pyThon_25BT Coverage Results" MODIFIED="1750736112967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI_XuLyAnh" />
+    <SUITE FILE_PATH="coverage/pythonProject1$BTVN_Bai2.coverage" NAME="BTVN_Bai2 Coverage Results" MODIFIED="1743427154605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaiTapVeNha/Ontap_Tuan01" />
+    <SUITE FILE_PATH="coverage/pythonProject1$Bai7.coverage" NAME="Bai7 Coverage Results" MODIFIED="1743425201864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaiTapVeNha" />
+    <SUITE FILE_PATH="coverage/pythonProject1$Bai1.coverage" NAME="Bai1 Coverage Results" MODIFIED="1743932781313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaiTapVeNha/RELEARN_WEEK2" />
+    <SUITE FILE_PATH="coverage/pythonProject1$main.coverage" NAME="main Coverage Results" MODIFIED="1743572760313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaiTapVeNha/KIEMTRA_NEW" />
+    <SUITE FILE_PATH="coverage/pythonProject1$BT_vidu.coverage" NAME="BT_vidu Coverage Results" MODIFIED="1746597522273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuan11" />
+    <SUITE FILE_PATH="coverage/Python_CODE$Bai4.coverage" NAME="Bai4 Coverage Results" MODIFIED="1748074863800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuan10" />
+    <SUITE FILE_PATH="coverage/Python_CODE$HienThiHAnh.coverage" NAME="HienThiHAnh Coverage Results" MODIFIED="1748059294750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuan10" />
+    <SUITE FILE_PATH="coverage/Python_CODE$api_sever.coverage" NAME="api_sever Coverage Results" MODIFIED="1748322833290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DOAN_PYTHON" />
+    <SUITE FILE_PATH="coverage/pythonProject1$BTVN_06.coverage" NAME="BTVN_06 Coverage Results" MODIFIED="1743907652616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaiTapVeNha/RELEARN_WEEK1" />
+    <SUITE FILE_PATH="coverage/pythonProject1$app01.coverage" NAME="app01 Coverage Results" MODIFIED="1744174497462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_Learning" />
+    <SUITE FILE_PATH="coverage/pythonProject1$Bai4.coverage" NAME="Bai4 Coverage Results" MODIFIED="1742970481645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuan06" />
+    <SUITE FILE_PATH="coverage/pythonProject1$windows.coverage" NAME="windows Coverage Results" MODIFIED="1746593526408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_Learning" />
+    <SUITE FILE_PATH="coverage/pythonProject1$BTVN_09.coverage" NAME="BTVN_09 Coverage Results" MODIFIED="1743915081962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaiTapVeNha/RELEARN_WEEK1" />
+    <SUITE FILE_PATH="coverage/pythonProject1$Place_vidu.coverage" NAME="Place_vidu Coverage Results" MODIFIED="1746598237954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuan11" />
+    <SUITE FILE_PATH="coverage/Python_CODE$CacTPCB_Entry.coverage" NAME="CacTPCB_Entry Coverage Results" MODIFIED="1748065000596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuan10" />
+    <SUITE FILE_PATH="coverage/pythonProject1$BTVN_Bai5.coverage" NAME="BTVN_Bai5 Coverage Results" MODIFIED="1743430910550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaiTapVeNha/Ontap_Tuan01" />
+    <SUITE FILE_PATH="coverage/pythonProject1$bai2.coverage" NAME="bai2 Coverage Results" MODIFIED="1742907793292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaiTapVeNha/Tuan1" />
+    <SUITE FILE_PATH="coverage/pythonProject1$Menubar.coverage" NAME="Menubar Coverage Results" MODIFIED="1747209764682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuan11/Menu" />
+    <SUITE FILE_PATH="coverage/pythonProject1$entry.coverage" NAME="entry Coverage Results" MODIFIED="1745126443182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_Learning" />
+    <SUITE FILE_PATH="coverage/pythonProject1$BTVN_08.coverage" NAME="BTVN_08 Coverage Results" MODIFIED="1743908848251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaiTapVeNha/RELEARN_WEEK1" />
+    <SUITE FILE_PATH="coverage/pythonProject1$BTVN_Bai4.coverage" NAME="BTVN_Bai4 Coverage Results" MODIFIED="1743427510420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaiTapVeNha/Ontap_Tuan01" />
+    <SUITE FILE_PATH="coverage/pythonProject1$Bai3.coverage" NAME="Bai3 Coverage Results" MODIFIED="1742970236519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuan06" />
+    <SUITE FILE_PATH="coverage/Python_CODE$CacTPCB_Radiobutton.coverage" NAME="CacTPCB_Radiobutton Coverage Results" MODIFIED="1748068018886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuan10" />
+    <SUITE FILE_PATH="coverage/pythonProject1$BTVN_02.coverage" NAME="BTVN_02 Coverage Results" MODIFIED="1743906228122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaiTapVeNha/RELEARN_WEEK1" />
+    <SUITE FILE_PATH="coverage/pythonProject1$QLSV.coverage" NAME="QLSV Coverage Results" MODIFIED="1743519390667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaiTapVeNha/OnTap_Youtube" />
+    <SUITE FILE_PATH="coverage/pythonProject1$BTVN_Bai3.coverage" NAME="BTVN_Bai3 Coverage Results" MODIFIED="1743427403688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaiTapVeNha/Ontap_Tuan01" />
+    <SUITE FILE_PATH="coverage/pythonProject1$BTVN_03.coverage" NAME="BTVN_03 Coverage Results" MODIFIED="1743906394673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaiTapVeNha/RELEARN_WEEK1" />
+    <SUITE FILE_PATH="coverage/Python_CODE$If_else.coverage" NAME="If_else Coverage Results" MODIFIED="1750652204720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI_XuLyAnh" />
+    <SUITE FILE_PATH="coverage/Python_CODE$CacTPCB_Button.coverage" NAME="CacTPCB_Button Coverage Results" MODIFIED="1748065038627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuan10" />
+    <SUITE FILE_PATH="coverage/pythonProject1$Bai9.coverage" NAME="Bai9 Coverage Results" MODIFIED="1743906029686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaiTapVeNha/RELEARN_WEEK1" />
+    <SUITE FILE_PATH="coverage/Python_CODE$CacTPCB_Text.coverage" NAME="CacTPCB_Text Coverage Results" MODIFIED="1748069519108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuan10" />
+    <SUITE FILE_PATH="coverage/pythonProject1$Place_vidu2.coverage" NAME="Place_vidu2 Coverage Results" MODIFIED="1746598805507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuan11" />
+    <SUITE FILE_PATH="coverage/Python_CODE$TaoCuaSoChinh.coverage" NAME="TaoCuaSoChinh Coverage Results" MODIFIED="1748058079110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuan10" />
+    <SUITE FILE_PATH="coverage/pythonProject1$BTVN_Bai9.coverage" NAME="BTVN_Bai9 Coverage Results" MODIFIED="1743433615752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaiTapVeNha/Ontap_Tuan01" />
+    <SUITE FILE_PATH="coverage/pythonProject1$Place_vidu3.coverage" NAME="Place_vidu3 Coverage Results" MODIFIED="1746599096844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuan11" />
+    <SUITE FILE_PATH="coverage/Python_CODE$CacTPCB_Checkbutton.coverage" NAME="CacTPCB_Checkbutton Coverage Results" MODIFIED="1748066853711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuan10" />
+    <SUITE FILE_PATH="coverage/Python_CODE$Message_Box_askretrycancel.coverage" NAME="Message_Box_askretrycancel Coverage Results" MODIFIED="1748071291478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuan10" />
+    <SUITE FILE_PATH="coverage/Python_CODE$Message_Box_showwarning.coverage" NAME="Message_Box_showwarning Coverage Results" MODIFIED="1748070115729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuan10" />
+    <SUITE FILE_PATH="coverage/Python_CODE$Message_Box_askquetion.coverage" NAME="Message_Box_askquetion Coverage Results" MODIFIED="1748070946992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuan10" />
+    <SUITE FILE_PATH="coverage/Python_CODE$Bai3.coverage" NAME="Bai3 Coverage Results" MODIFIED="1748074240830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuan10" />
+    <SUITE FILE_PATH="coverage/pythonProject1$app03.coverage" NAME="app03 Coverage Results" MODIFIED="1744785414329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_Learning" />
+    <SUITE FILE_PATH="coverage/pythonProject1$Bai5.coverage" NAME="Bai5 Coverage Results" MODIFIED="1743424281152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaiTapVeNha/Ontap_Tuan01" />
+    <SUITE FILE_PATH="coverage/pythonProject1$random.coverage" NAME="random Coverage Results" MODIFIED="1742907370314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaiTapVeNha" />
+    <SUITE FILE_PATH="coverage/pythonProject1$Bai8.coverage" NAME="Bai8 Coverage Results" MODIFIED="1743905597330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaiTapVeNha/RELEARN_WEEK1" />
+    <SUITE FILE_PATH="coverage/Python_CODE$CacTPCB_Label.coverage" NAME="CacTPCB_Label Coverage Results" MODIFIED="1748058527064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuan10" />
+    <SUITE FILE_PATH="coverage/Python_CODE$CacTPCB_Listbox.coverage" NAME="CacTPCB_Listbox Coverage Results" MODIFIED="1748068904298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuan10" />
+    <SUITE FILE_PATH="coverage/pythonProject1$antique_manager.coverage" NAME="antique_manager Coverage Results" MODIFIED="1743570444834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaiTapVeNha/ON_TapKiemTraPython" />
+    <SUITE FILE_PATH="coverage/Python_CODE$Message_Box_askokcancel.coverage" NAME="Message_Box_askokcancel Coverage Results" MODIFIED="1748071237753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuan10" />
+    <SUITE FILE_PATH="coverage/pythonProject1$BTVN_07.coverage" NAME="BTVN_07 Coverage Results" MODIFIED="1743908028067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaiTapVeNha/RELEARN_WEEK1" />
+    <SUITE FILE_PATH="coverage/Python_CODE$hs1test.coverage" NAME="hs1test Coverage Results" MODIFIED="1748186589542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DOAN_PYTHON/hs1" />
+    <SUITE FILE_PATH="coverage/pythonProject1$BTVN_01.coverage" NAME="BTVN_01 Coverage Results" MODIFIED="1743906127773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaiTapVeNha/RELEARN_WEEK1" />
+    <SUITE FILE_PATH="coverage/Python_CODE$Vidu_MinhHoa.coverage" NAME="Vidu_MinhHoa Coverage Results" MODIFIED="1748057951433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuan10" />
+    <SUITE FILE_PATH="coverage/Python_CODE$Message_Box_showerror.coverage" NAME="Message_Box_showerror Coverage Results" MODIFIED="1748070684382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuan10" />
+    <SUITE FILE_PATH="coverage/pythonProject1$BTVN_04.coverage" NAME="BTVN_04 Coverage Results" MODIFIED="1743906937700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaiTapVeNha/RELEARN_WEEK1" />
+    <SUITE FILE_PATH="coverage/pythonProject1$Bai2.coverage" NAME="Bai2 Coverage Results" MODIFIED="1743933518444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaiTapVeNha/RELEARN_WEEK2" />
+    <SUITE FILE_PATH="coverage/pythonProject1$labels.coverage" NAME="labels Coverage Results" MODIFIED="1746593606091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_Learning" />
+    <SUITE FILE_PATH="coverage/Python_CODE$Bai2.coverage" NAME="Bai2 Coverage Results" MODIFIED="1748072915696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuan10" />
+    <SUITE FILE_PATH="coverage/Python_CODE$Message_Box_askyesno.coverage" NAME="Message_Box_askyesno Coverage Results" MODIFIED="1748071110298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuan10" />
+    <SUITE FILE_PATH="coverage/pythonProject1$Bai11.coverage" NAME="Bai11 Coverage Results" MODIFIED="1742979859682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuan06" />
+    <SUITE FILE_PATH="coverage/pythonProject1$app02.coverage" NAME="app02 Coverage Results" MODIFIED="1744175802467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_Learning" />
+    <SUITE FILE_PATH="coverage/pythonProject1$BTVN_05.coverage" NAME="BTVN_05 Coverage Results" MODIFIED="1743907388685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaiTapVeNha/RELEARN_WEEK1" />
+    <SUITE FILE_PATH="coverage/pythonProject1$Place_vidu4.coverage" NAME="Place_vidu4 Coverage Results" MODIFIED="1747205051399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuan11/Label" />
+    <SUITE FILE_PATH="coverage/pythonProject1$app1.coverage" NAME="app1 Coverage Results" MODIFIED="1743511000871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaiTapVeNha/OnTap_Youtube" />
+    <SUITE FILE_PATH="coverage/Python_CODE$QL_KhachHang_HomeStay.coverage" NAME="QL_KhachHang_HomeStay Coverage Results" MODIFIED="1750480556028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DOAN_PYTHON" />
+    <SUITE FILE_PATH="coverage/pythonProject1$BTVN_Bai7.coverage" NAME="BTVN_Bai7 Coverage Results" MODIFIED="1743431772993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaiTapVeNha/Ontap_Tuan01" />
+    <SUITE FILE_PATH="coverage/Python_CODE$Message_Box.coverage" NAME="Message_Box Coverage Results" MODIFIED="1748069990559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuan10" />
+    <SUITE FILE_PATH="coverage/pythonProject1$BTVN_Bai6.coverage" NAME="BTVN_Bai6 Coverage Results" MODIFIED="1743431298791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaiTapVeNha/Ontap_Tuan01" />
+    <SUITE FILE_PATH="coverage/pythonProject1$Bai10.coverage" NAME="Bai10 Coverage Results" MODIFIED="1743511173145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tuan06" />
+    <SUITE FILE_PATH="coverage/pythonProject1$BTVN_Bai1.coverage" NAME="BTVN_Bai1 Coverage Results" MODIFIED="1743426936014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaiTapVeNha/Ontap_Tuan01" />
+    <SUITE FILE_PATH="coverage/pythonProject1$app.coverage" NAME="app Coverage Results" MODIFIED="1742966109598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaiTapVeNha/OnTap_Youtube" />
+    <SUITE FILE_PATH="coverage/pythonProject1$buttons.coverage" NAME="buttons Coverage Results" MODIFIED="1745121820669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkinter_Learning" />
+    <SUITE FILE_PATH="coverage/pythonProject1$Bai6.coverage" NAME="Bai6 Coverage Results" MODIFIED="1743424870415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BaiTapVeNha/Ontap_Tuan01" />
+  </component>
+</project>
